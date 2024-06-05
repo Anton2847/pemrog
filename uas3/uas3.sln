@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uas3", "uas3\uas3.csproj", "{72CE10D9-BBB8-47E0-B9CF-DC0AACF4F7BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72CE10D9-BBB8-47E0-B9CF-DC0AACF4F7BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72CE10D9-BBB8-47E0-B9CF-DC0AACF4F7BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72CE10D9-BBB8-47E0-B9CF-DC0AACF4F7BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72CE10D9-BBB8-47E0-B9CF-DC0AACF4F7BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4CDBADA-0566-4D8A-B12B-455C4E721F95}
+	EndGlobalSection
+EndGlobal

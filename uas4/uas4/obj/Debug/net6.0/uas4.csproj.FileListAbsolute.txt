@@ -1,0 +1,15 @@
+D:\Kuliah\Pemrograman\UAS\uas4\uas4\bin\Debug\net6.0\uas4.exe
+D:\Kuliah\Pemrograman\UAS\uas4\uas4\bin\Debug\net6.0\uas4.deps.json
+D:\Kuliah\Pemrograman\UAS\uas4\uas4\bin\Debug\net6.0\uas4.runtimeconfig.json
+D:\Kuliah\Pemrograman\UAS\uas4\uas4\bin\Debug\net6.0\uas4.dll
+D:\Kuliah\Pemrograman\UAS\uas4\uas4\bin\Debug\net6.0\uas4.pdb
+D:\Kuliah\Pemrograman\UAS\uas4\uas4\obj\Debug\net6.0\uas4.csproj.AssemblyReference.cache
+D:\Kuliah\Pemrograman\UAS\uas4\uas4\obj\Debug\net6.0\uas4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Pemrograman\UAS\uas4\uas4\obj\Debug\net6.0\uas4.AssemblyInfoInputs.cache
+D:\Kuliah\Pemrograman\UAS\uas4\uas4\obj\Debug\net6.0\uas4.AssemblyInfo.cs
+D:\Kuliah\Pemrograman\UAS\uas4\uas4\obj\Debug\net6.0\uas4.csproj.CoreCompileInputs.cache
+D:\Kuliah\Pemrograman\UAS\uas4\uas4\obj\Debug\net6.0\uas4.dll
+D:\Kuliah\Pemrograman\UAS\uas4\uas4\obj\Debug\net6.0\refint\uas4.dll
+D:\Kuliah\Pemrograman\UAS\uas4\uas4\obj\Debug\net6.0\uas4.pdb
+D:\Kuliah\Pemrograman\UAS\uas4\uas4\obj\Debug\net6.0\uas4.genruntimeconfig.cache
+D:\Kuliah\Pemrograman\UAS\uas4\uas4\obj\Debug\net6.0\ref\uas4.dll
