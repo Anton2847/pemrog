@@ -1,0 +1,30 @@
+D:\Kuliah\Pemrograman\UAS\uas final\uas final\bin\Debug\net6.0\uas final.exe
+D:\Kuliah\Pemrograman\UAS\uas final\uas final\bin\Debug\net6.0\uas final.deps.json
+D:\Kuliah\Pemrograman\UAS\uas final\uas final\bin\Debug\net6.0\uas final.runtimeconfig.json
+D:\Kuliah\Pemrograman\UAS\uas final\uas final\bin\Debug\net6.0\uas final.dll
+D:\Kuliah\Pemrograman\UAS\uas final\uas final\bin\Debug\net6.0\uas final.pdb
+D:\Kuliah\Pemrograman\UAS\uas final\uas final\obj\Debug\net6.0\uas final.csproj.AssemblyReference.cache
+D:\Kuliah\Pemrograman\UAS\uas final\uas final\obj\Debug\net6.0\uas final.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Pemrograman\UAS\uas final\uas final\obj\Debug\net6.0\uas final.AssemblyInfoInputs.cache
+D:\Kuliah\Pemrograman\UAS\uas final\uas final\obj\Debug\net6.0\uas final.AssemblyInfo.cs
+D:\Kuliah\Pemrograman\UAS\uas final\uas final\obj\Debug\net6.0\uas final.csproj.CoreCompileInputs.cache
+D:\Kuliah\Pemrograman\UAS\uas final\uas final\obj\Debug\net6.0\uas final.dll
+D:\Kuliah\Pemrograman\UAS\uas final\uas final\obj\Debug\net6.0\refint\uas final.dll
+D:\Kuliah\Pemrograman\UAS\uas final\uas final\obj\Debug\net6.0\uas final.pdb
+D:\Kuliah\Pemrograman\UAS\uas final\uas final\obj\Debug\net6.0\uas final.genruntimeconfig.cache
+D:\Kuliah\Pemrograman\UAS\uas final\uas final\obj\Debug\net6.0\ref\uas final.dll
+D:\Kuliah\Semester 2\Pemrograman\UAS\uas final\uas final\bin\Debug\net6.0\uas final.exe
+D:\Kuliah\Semester 2\Pemrograman\UAS\uas final\uas final\bin\Debug\net6.0\uas final.deps.json
+D:\Kuliah\Semester 2\Pemrograman\UAS\uas final\uas final\bin\Debug\net6.0\uas final.runtimeconfig.json
+D:\Kuliah\Semester 2\Pemrograman\UAS\uas final\uas final\bin\Debug\net6.0\uas final.dll
+D:\Kuliah\Semester 2\Pemrograman\UAS\uas final\uas final\bin\Debug\net6.0\uas final.pdb
+D:\Kuliah\Semester 2\Pemrograman\UAS\uas final\uas final\obj\Debug\net6.0\uas final.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 2\Pemrograman\UAS\uas final\uas final\obj\Debug\net6.0\uas final.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Semester 2\Pemrograman\UAS\uas final\uas final\obj\Debug\net6.0\uas final.AssemblyInfoInputs.cache
+D:\Kuliah\Semester 2\Pemrograman\UAS\uas final\uas final\obj\Debug\net6.0\uas final.AssemblyInfo.cs
+D:\Kuliah\Semester 2\Pemrograman\UAS\uas final\uas final\obj\Debug\net6.0\uas final.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 2\Pemrograman\UAS\uas final\uas final\obj\Debug\net6.0\uas final.dll
+D:\Kuliah\Semester 2\Pemrograman\UAS\uas final\uas final\obj\Debug\net6.0\refint\uas final.dll
+D:\Kuliah\Semester 2\Pemrograman\UAS\uas final\uas final\obj\Debug\net6.0\uas final.pdb
+D:\Kuliah\Semester 2\Pemrograman\UAS\uas final\uas final\obj\Debug\net6.0\uas final.genruntimeconfig.cache
+D:\Kuliah\Semester 2\Pemrograman\UAS\uas final\uas final\obj\Debug\net6.0\ref\uas final.dll
